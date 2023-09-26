@@ -1,0 +1,383 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sneha",
+      "email": "sneha@gmail.com",
+      "university": "NSUT",
+      "university_id": "1",
+      "roll_no": "101",
+      "phone_no": "9876543210",
+      "profile_pic": "https://reductress.com/wp-content/uploads/2019/06/petite-woman-1-820x500.jpg",
+      "following": []
+    },
+    {
+      "id": 2,
+      "name": "Rohan",
+      "email": "rohan@gmail.com",
+      "university": "NSUT",
+      "university_id": "1",
+      "roll_no": "102",
+      "phone_no": "9876543211",
+      "profile_pic": "https://www.wilsoncenter.org/sites/default/files/styles/large/public/media/images/person/james-person-1.webp",
+      "following": []
+    },
+    {
+      "id": 3,
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "university": "NSUT",
+      "university_id": "2",
+      "roll_no": "103",
+      "phone_no": "9876543212",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 4,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "university": "NSUT",
+      "university_id": "3",
+      "roll_no": "104",
+      "phone_no": "9876543213",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 5,
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "university": "NSUT",
+      "university_id": "1",
+      "roll_no": "105",
+      "phone_no": "9876543214",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 6,
+      "name": "Piyush",
+      "email": "piyush@gmail.com",
+      "university": "NSUT",
+      "university_id": "2",
+      "roll_no": "106",
+      "phone_no": "9876543215",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 7,
+      "name": "Nisha",
+      "email": "nisha@gmail.com",
+      "university": "NSUT",
+      "university_id": "3",
+      "roll_no": "107",
+      "phone_no": "9876543216",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 8,
+      "name": "Mohit",
+      "email": "mohit@gmail.com",
+      "university": "NSUT",
+      "university_id": "1",
+      "roll_no": "108",
+      "phone_no": "9876543217",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 9,
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "university": "NSUT",
+      "university_id": "2",
+      "roll_no": "109",
+      "phone_no": "9876543218",
+      "profile_pic": "",
+      "following": []
+    },
+    {
+      "id": 10,
+      "name": "Sumit",
+      "email": "sumit@gmail.com",
+      "university": "NSUT",
+      "university_id": "1",
+      "roll_no": "110",
+      "phone_no": "9876543219",
+      "profile_pic": "",
+      "following": []
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "Netaji Subhas University of Technology",
+      "dean_name": "Dr. Sujata Sengar",
+      "address": "Dwarka, Delhi",
+      "phone_no": ["011-25012345"],
+      "email": "nsut@edu.in",
+      "website": "www.nsut.ac.in",
+      "followers": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Netaji_Subhas_University_of_Technology.svg/640px-Netaji_Subhas_University_of_Technology.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Indian Institute of Technology, Delhi",
+      "dean_name": "Dr. V Ramgopal Rao",
+      "address": "Hauz Khas, Delhi",
+      "phone_no": ["011-26591700"],
+      "email": "iitd@edu.in",
+      "website": "www.iitd.ac.in",
+      "followers": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Delhi Technical University",
+      "dean_name": "Prof. Yogesh Singh",
+      "address": "Bawana Road, Delhi",
+      "phone_no": ["011-27871018"],
+      "email": "dtu@edu.in",
+      "website": "www.dtu.ac.in",
+      "followers": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/DTU%2C_Delhi_official_logo.png/200px-DTU%2C_Delhi_official_logo.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Chatbot Project",
+      "category": "AI",
+      "stream": "CSE",
+      "caption": "Developed an advanced conversational AI chatbot using Python, NLP and deep learning techniques to provide human-like conversations. The chatbot was trained on large datasets to understand natural language queries, maintain context and respond appropriately through a web interface. It uses intent classification, entity extraction, response generation and sentiment analysis to have meaningful conversations across various domains like retail, healthcare, education etc. The project enhanced my skills in NLP, neural networks, dialog systems and helped me understand the future of conversational AI.",
+      "media": [
+        "https://img.freepik.com/free-vector/chat-bot-concept-illustration_114360-5522.jpg?w=826&t=st=1695141472~exp=1695142072~hmac=8d65114c7c8eaf2f97fc0fd21c2d0cff8ef9295cb2039a51ae7daac18c74973a"
+      ],
+      "student_id": 1,
+      "university_id": 1,
+      "approval_status": "approved",
+      "posted_on": "2023-02-15T09:35:10Z",
+      "likes": [],
+      "comments": [19]
+    },
+    {
+      "id": 2,
+      "title": "Stock Price Prediction",
+      "category": "ML",
+      "stream": "CSE",
+      "caption": "Built an end-to-end deep neural network model using LSTM and GRU layers for stock price forecasting. Collected and preprocessed large stock datasets, engineered technical indicators as model features. Optimized hyperparameters like layers, nodes, dropout, learning rate etc. and trained the model to predict closing prices and price movements. Achieved over 90% directional accuracy on test data. Deployed the model on cloud to provide stock recommendations through a web application. This advanced project helped me apply deep learning techniques to time series forecasting and improve my skills in Keras, TensorFlow and cloud deployment.",
+      "media": [
+        "https://daxg39y63pxwu.cloudfront.net/images/resource/stock-price-prediction-data-science-project-with-source-code/Stock+Price+Prediction+with+Source+Code.png"
+      ],
+      "student_id": 2,
+      "university_id": 1,
+      "approval_status": "declined",
+      "posted_on": "2023-02-16T11:50:32Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "Smart Irrigation System",
+      "category": "IoT",
+      "stream": "ECE",
+      "caption": "Designed and developed an intelligent irrigation system using IoT and embedded systems to efficiently water agricultural fields. It uses soil moisture sensors, Arduino microcontroller, water pumps and cloud connectivity. I built the end-to-end system including moisture sensing, controller programming, water pump actuation and cloud integration. It optimizes water usage by watering plants based on soil moisture thresholds. I learned various skills like IoT architecture design, embedded programming, cloud services. This project tackles the global problem of water wastage in agriculture and helped me apply technology to solve real-world problems.",
+      "media": [
+        "https://repository-images.githubusercontent.com/394717051/53591b5b-0f71-4d21-aeb2-8629bede4b70"
+      ],
+      "student_id": 3,
+      "university_id": 2,
+      "approval_status": "waiting",
+      "posted_on": "2023-02-17T14:15:17Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "Online Shopping App",
+      "category": "Android",
+      "stream": "CSE",
+      "caption": "Built a feature-rich e-commerce Android application for online shopping with functionality like product listings, search, filters, cart, order tracking and payment gateway integration. Developed a great mobile shopping experience through optimized UI/UX design principles and responsive interfaces. Implemented backend in Node.js and MongoDB to manage products, orders and users. Learned and applied concepts like mobile design, reactive programming, APIs, databases and cloud servers. The project enhanced my Android development skills and helped me understand building full-stack mobile applications.",
+      "media": [
+        "https://static.vecteezy.com/system/resources/thumbnails/014/200/115/small/online-shopping-concept-illustration-perfect-for-web-design-banner-mobile-app-landing-page-vector.jpg"
+      ],
+      "student_id": 4,
+      "university_id": 3,
+      "approval_status": "approved",
+      "posted_on": "2023-02-18T16:35:29Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "IoT Smart Home",
+      "category": "IoT",
+      "stream": "ECE",
+      "caption": "Developed a smart home IoT system using Arduino, Raspberry Pi, sensors and cloud platform to enable remote monitoring and control of home appliances. Built hardware prototypes of nodes to collect sensor data like temperature, motion etc. Wrote firmware for microcontrollers and designed cloud architecture. Created mobile and web apps using ReactJS to visualize sensor data and control devices. Learned key IoT concepts including communication protocols, embedded programming and cloud services. This complex project enhanced my skills in full-stack IoT application development.",
+      "media": [
+        "https://cg-new-drupal-site-s3-bucket.s3.ap-south-1.amazonaws.com/staging/s3fs-public/2020-12/cyril-blog-2.jpg"
+      ],
+      "student_id": 5,
+      "university_id": 1,
+      "approval_status": "waiting",
+      "posted_on": "2023-02-19T09:20:44Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 6,
+      "title": "Image Classification",
+      "category": "Computer Vision",
+      "stream": "CSE",
+      "caption": "Built an image classifier using Convolutional Neural Networks in Python with TensorFlow and Keras. Collected image dataset, preprocessed and augmented data. Designed deep CNN architecture, optimized hyperparameters and trained model to classify images across various categories with over 90% test accuracy. Deployed the model on cloud and exposed it through a web API. This project helped me learn deep computer vision concepts like image processing, CNN layers, optimization techniques and model deployment.",
+      "media": [
+        "https://daxg39y63pxwu.cloudfront.net/images/Deep+Learning+Image+Classification+in+Python+with+CNN/Image+Classification+Python+Deep+Learning.png"
+      ],
+      "student_id": 6,
+      "university_id": 2,
+      "approval_status": "waiting",
+      "posted_on": "2023-02-20T11:40:19Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 7,
+      "title": "Smart Parking System",
+      "category": "IoT",
+      "stream": "ECE",
+      "caption": "Developed a smart parking system using IoT and embedded programming to automate parking slot detection and ticketing. Designed a scalable architecture using sensors, microcontroller, cloud database and apps. Built hardware prototype with ultrasonic sensors to detect and communicate vacant slots. Implemented algorithms in microcontroller to monitor slots and update cloud. Developed mobile app for ticketless parking. This project enhanced my skills in Embedded C, IoT, cloud platforms and system design.",
+      "media": [
+        "https://hackster.imgix.net/uploads/attachments/1329446/_8GO6WhZH5d.blob?auto=compress&w=900&h=675&fit=min&fm=jpg"
+      ],
+      "student_id": 7,
+      "university_id": 3,
+      "approval_status": "approved",
+      "posted_on": "2023-02-21T16:00:08Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 8,
+      "title": "Weather Monitoring System",
+      "category": "IoT",
+      "stream": "ECE",
+      "caption": "Designed and built a comprehensive weather monitoring system using Arduino, sensors like BMP280, DHT22 etc. and cloud IoT platform. Developed PCB, wrote Arduino firmware to collect real-time data from sensors and transmit it securely to cloud. Built web and mobile apps using ReactJS to visualize and monitor weather parameters. Gained hands-on experience in IoT architecture, PCB design, embedded programming and end-to-end system development. This project can enable various environmental and agricultural use-cases requiring weather monitoring.",
+      "media": [
+        "https://b2bblogassets.airtel.in/wp-content/uploads/2022/03/iot-application-in-weather-monitoring-system-scaled.jpg"
+      ],
+      "student_id": 8,
+      "university_id": 1,
+      "approval_status": "waiting",
+      "posted_on": "2023-02-22T18:25:57Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": 9,
+      "title": "Music Recommendation System",
+      "category": "ML",
+      "stream": "CSE",
+      "caption": "Implemented a music recommendation system using collaborative filtering and matrix factorization algorithms. Scraped and preprocessed user and song metadata from music sites. Analyzed listening patterns and similarities between user preferences. Built and trained recommendation models using Python and TensorFlow. Achieved high recommendation accuracy, diversity and relevance. Deployed models on cloud and exposed recommendations through a web API. This project helped me learn recommendation systems and apply data science, machine learning and cloud skills.",
+      "media": [
+        "https://miro.medium.com/v2/resize:fit:1200/1*GMikfjbGYyPGDTYdJuMwhg.png"
+      ],
+      "student_id": 9,
+      "university_id": 2,
+      "approval_status": "waiting",
+      "posted_on": "2023-02-23T08:50:29Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "title": "Smart Traffic System",
+      "category": "IoT",
+      "stream": "ECE",
+      "caption": "Developed a smart traffic management system using IoT, embedded systems and cloud platform to optimize traffic light patterns based on real-time vehicle density at junctions. Designed a scalable architecture and built hardware prototype using Arduino, sensors and actuators. Programmed microcontroller firmware to detect vehicles, update cloud database and control traffic lights. The system helped reduce traffic congestion through dynamic signal timing. This project enhanced my skills in embedded systems design, IoT and cloud computing.",
+      "media": [
+        "https://trafficinfratech.com/wp-content/uploads/2014/10/ITS.jpg.jpg"
+      ],
+      "student_id": 1,
+      "university_id": 1,
+      "approval_status": "declined",
+      "posted_on": "2023-02-24T19:15:41Z",
+      "likes": [],
+      "comments": [],
+      "id": 10
+    }
+  ],
+  "post_comments": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "student_id": 2,
+      "content": "Great work!",
+      "timestamp": "2023-02-15T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "project_id": 2,
+      "student_id": 3,
+      "content": "Impressive project",
+      "timestamp": "2023-02-16T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "project_id": 3,
+      "student_id": 4,
+      "content": "Very useful system!",
+      "timestamp": "2023-02-17T15:00:00Z"
+    },
+    {
+      "id": 4,
+      "project_id": 4,
+      "student_id": 5,
+      "content": "Cool app!",
+      "timestamp": "2023-02-18T17:00:00Z"
+    },
+    {
+      "id": 5,
+      "project_id": 5,
+      "student_id": 6,
+      "content": "Awesome work",
+      "timestamp": "2023-02-19T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "project_id": 6,
+      "student_id": 7,
+      "content": "Well implemented",
+      "timestamp": "2023-02-20T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "project_id": 7,
+      "student_id": 8,
+      "content": "Very innovative!",
+      "timestamp": "2023-02-21T16:00:00Z"
+    },
+    {
+      "id": 8,
+      "project_id": 8,
+      "student_id": 9,
+      "content": "Helpful system",
+      "timestamp": "2023-02-22T19:00:00Z"
+    },
+    {
+      "id": 9,
+      "project_id": 9,
+      "student_id": 10,
+      "content": "Nice recommendation engine",
+      "timestamp": "2023-02-23T09:00:00Z"
+    },
+    {
+      "id": 10,
+      "project_id": 10,
+      "student_id": 1,
+      "content": "Smart solution!",
+      "timestamp": "2023-02-24T20:00:00Z"
+    }
+  ]
+}
